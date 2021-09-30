@@ -1,6 +1,8 @@
 *{
     background-color: black;
     font-family: Verdana;
+    text-align: center;
+    align-content: center;
 }
 h1{
     
@@ -15,6 +17,7 @@ a{
     font-size: 16px;
     color: aquamarine;
     font-family: Verdana;
+    text-align: center;
 }
 
 h1.message{
@@ -25,4 +28,8 @@ h1.message{
 p.copyright{
     text-align: right;
     color: grey;
+}
+img,
+video{
+    align-content: center;
 }
