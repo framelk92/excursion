@@ -1,7 +1,4 @@
-body,
-header{
-    text-align: center;
-    align-content: center;
+*{
     background-color: black;
     font-family: Verdana;
 }
@@ -11,12 +8,13 @@ h1{
     font-weight: normal;
     color: white;
     text-align: center;
-
+    font-family: Verdana;
 }
 
 a{
     font-size: 16px;
     color: aquamarine;
+    font-family: Verdana;
 }
 
 h1.message{
